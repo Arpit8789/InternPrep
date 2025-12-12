@@ -173,7 +173,7 @@ const DSA_PATTERNS = [
   { id: 'divide_conquer',        name: 'Divide & Conquer',    icon: '⚔️' },
   { id: 'linked_list',           name: 'Linked List',         icon: '🔗' },
   { id: 'stack',                 name: 'Stack',               icon: '📚' },
-  { id: 'array',                 name: 'Arrays & Hashing',    icon: '📦' },
+  { id: 'recursion_backtracking',                 name: 'recursion_backtracking',    icon: '🔙' },
   { id: 'sorting',               name: 'Sorting & Searching', icon: '🔀' },
   { id: 'prefix_sum',            name: 'Prefix Sum',          icon: '➕' },
   { id: 'hashing',               name: 'Hashing',             icon: '🧰' },
